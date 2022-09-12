@@ -1,0 +1,51 @@
+body {
+    background-color: antiquewhite;
+}
+
+input {
+    position: relative;
+    display: block;
+    width: 20rem;
+    height: 3rem;
+    background-color: azure;
+    width: 50%;
+    margin: auto;
+    
+}
+
+form {
+    position: relative;
+    padding-top: 10%;
+    padding-bottom: 25%;
+    justify-content: center;
+    display: block;
+    border: 0.2rem groove black;
+}
+
+button {
+    background-color: green;
+    display: block;
+    position: relative;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+}
+
+div {
+    background-color: antiquewhite;
+}
+
+.result {
+    position: relative;
+    padding-top: 10%;
+    padding-bottom: 25%;
+    padding-left: 40%;
+    justify-content: center;
+    display: block;
+}
+
+.logout-btn {
+    margin-right: 70%;
+    margin-top: 5%;
+}
+
